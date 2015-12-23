@@ -1,5 +1,4 @@
-
-
+*.FCStd1
 *.bak
 *.bck
 *.raw
@@ -7,7 +6,6 @@
 *.dcm
 *.bash_profile
 *.DS_Store
-*.FCStd1
 *.kicad_pcb-bak
 *autosave*
 *cache*
