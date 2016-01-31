@@ -1,1 +1,1 @@
-# Bucky.
+# Bucky
